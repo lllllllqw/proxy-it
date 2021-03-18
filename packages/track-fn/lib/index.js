@@ -1,0 +1,1 @@
+export { trackFn as default } from './track-fn.js'
